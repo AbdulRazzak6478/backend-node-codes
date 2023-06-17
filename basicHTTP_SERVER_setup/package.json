@@ -1,0 +1,14 @@
+{
+  "name": "basichttp_server_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
