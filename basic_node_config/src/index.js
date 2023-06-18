@@ -8,7 +8,6 @@ app.use('/api',apiRoutes);
 
 
 app.listen(PORT,()=>{
-    console.log(`Successfully started the server on PORT ${PORT} `);
-    console.log("now started the implementing folder structure and ORM structure moving forward");
+    console.log(`Successfully started the server on PORT ${PORT} `); 
     Logger.info("Successfully started server"," root ", {});
 });
